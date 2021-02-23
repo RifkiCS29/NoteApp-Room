@@ -1,5 +1,5 @@
 # NoteApp-Room
-Note Application with Room Database 
+Note Application with Room Database without LiveData and ViewModel
 
 ## Screenshots
 
